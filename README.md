@@ -1,3 +1,4 @@
 # Neural-Marchine-Translation-English-portugeese-
-working on the project rn bro 
+project complete
+val_masked_acc: 0.7832
 
