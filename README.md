@@ -1,2 +1,3 @@
 # Neural-Marchine-Translation-English-portugeese-
-will add (kinda lazy rn)
+working on the project rn bro 
+
